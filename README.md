@@ -1,1 +1,1 @@
-# Camera-Configuration---Visual-Ruler
+# Camera Configuration - Visual Ruler
